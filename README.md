@@ -1,6 +1,6 @@
-##This is NextJS 13 + Tailwndcss template you can clone and use for you pupose
+## This is NextJS 13 + Tailwndcss template you can clone and use for you pupose
 
-## Getting Started
+# Getting Started
 
 First, run the development server:
 
